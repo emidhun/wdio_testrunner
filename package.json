@@ -19,7 +19,7 @@
   "homepage": "https://github.com/klamping/webdriverio-course-content#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "http-server": "^0.9.0",
+    "http-server": "^14.1.1",
     "selenium-standalone": "^6.16.0",
     "wdio-selenium-standalone-service": "^0.0.12",
     "webdriverio": "4"
